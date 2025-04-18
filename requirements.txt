@@ -1,0 +1,6 @@
+tensorflow==2.9.0
+scikit-learn
+pandas
+matplotlib
+openpyxl
+shap
